@@ -1659,11 +1659,11 @@ footer{
     
     .container::-webkit-scrollbar-track {
         background: var(--text-color-primary); 
-        border-radius: 50%;
+        border-radius: 0;
     }
     
     .container::-webkit-scrollbar-thumb {
-        background-color: var(--main-color); 
+        background-color: var(--color--hover2); 
         border-radius: 10rem; 
         
     }
