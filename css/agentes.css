@@ -2361,7 +2361,7 @@ footer{
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
+        justify-content: end;
         padding-top: 8rem;
         margin: 0;
     }
@@ -2373,7 +2373,7 @@ footer{
         align-items: center;
         justify-content: center;
         padding-top: 3rem;
-        padding-left: 1.5rem;
+        padding-left: 2.5rem;
     }
 
     .container__agente{
@@ -2417,7 +2417,7 @@ footer{
     }
 
     .denzel.overlay{
-        transform: translate(0rem, -23rem);
+        transform: translate(-1rem, -23rem);
     }
 
     .denzel.overlay .container__img .img_dos{
@@ -2433,7 +2433,7 @@ footer{
     }
 
     .pearl.overlay{
-        transform: translate(1rem, -23rem);
+        transform: translate(-1rem, -23rem);
     }
 
     .pearl.overlay .container__img .img_dos{
@@ -2448,7 +2448,7 @@ footer{
     }
 
     .betraim.overlay{
-        transform: translate(1rem, -23rem);
+        transform: translate(-1rem, -23rem);
     }
 
     .betraim.overlay .container__img .img_dos{
@@ -2463,7 +2463,7 @@ footer{
     }
 
     .jazmin.overlay{
-        transform: translate(1rem, -8rem);
+        transform: translate(-1rem, -8rem);
     }
 
     .jazmin.overlay .container__img .img_dos{
@@ -2478,7 +2478,7 @@ footer{
     }
 
     .alana.overlay{
-        transform: translate(1rem, -8rem);
+        transform: translate(-1rem, -8rem);
     }
 
     .alana.overlay .container__img .img_dos{
@@ -2493,7 +2493,7 @@ footer{
     }
 
     .alisson.overlay{
-        transform: translate(1rem, -8rem);
+        transform: translate(-1rem, -8rem);
     }
 
     .alisson.overlay .container__img .img_dos{
@@ -2508,7 +2508,7 @@ footer{
     }
 
     .daisaro.overlay{
-        transform: translate(1rem, 8rem);
+        transform: translate(-1rem, 8rem);
     }
 
     .daisaro.overlay .container__img .img_dos{
@@ -2522,7 +2522,7 @@ footer{
     }
 
     .demir.overlay{
-        transform: translate(1rem, 8rem);
+        transform: translate(-1rem, 8rem);
     }
 
     .demir.overlay .container__img .img_dos{
@@ -2538,7 +2538,7 @@ footer{
     }
 
     .valeria.overlay{
-        transform: translate(1rem, 8rem);
+        transform: translate(-1rem, 8rem);
     }
 
     .valeria.overlay .container__img .img_dos{
@@ -2553,7 +2553,7 @@ footer{
     }
 
     .myeong.overlay{
-        transform: translate(1rem, 28rem);
+        transform: translate(-1rem, 28rem);
     }
 
     .myeong.overlay .container__img .img_dos{
@@ -2569,7 +2569,7 @@ footer{
     }
 
     .dowon.overlay{
-        transform: translate(1rem, 28rem);
+        transform: translate(-1rem, 28rem);
     }
 
     .dowon.overlay .container__img .img_dos{
@@ -2584,7 +2584,7 @@ footer{
     }
 
     .aylen.overlay{
-        transform: translate(1rem, 28rem);
+        transform: translate(-1rem, 28rem);
     }
 
     .aylen.overlay .container__img .img_dos{
@@ -2599,7 +2599,7 @@ footer{
     }
 
     .nello.overlay{
-        transform: translate(1rem, 28rem);
+        transform: translate(-1rem, 28rem);
     }
 
     .nello.overlay .container__img .img_dos{
@@ -2628,7 +2628,7 @@ footer{
 
     .container__tittle h3{
         position: absolute;
-        font-size: 1rem;
+        font-size: 0.9rem;
         margin-top: 1rem;
         margin-left: -5rem;
         color: var(--boton-color);
@@ -2653,7 +2653,7 @@ footer{
 
         font-size: 1rem;
         margin-top: -9.5rem;
-        margin-left: -12rem;
+        margin-left: -11rem;
         width: 18rem;
 
     }
@@ -2677,7 +2677,7 @@ footer{
         display: flex;
         flex-direction: column;
         justify-content: start;
-        margin-left: -8rem;
+        margin-left: -12rem;
     }
 
     .container__text p{
