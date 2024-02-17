@@ -230,11 +230,11 @@ aside{
     transition: width 0.1s ease-out;
     background-size: cover;
     border-radius: 1rem;
-    border: 3px solid var(--color--hover2);
+    border: 2px solid var(--color--hover2);
 }
 
 .container__agente:hover{
-    border: 3px solid var(--boton-color);
+    border: 2px solid var(--boton-color);
 }
 
 .container__agente.overlay{
@@ -269,7 +269,7 @@ aside{
     box-shadow: 2px 2px 4px white;
     overflow: visible;
     background: var(--main-color);
-    border: 3px solid var(--boton-color);
+    border: 2px solid var(--boton-color);
 
 }
 
