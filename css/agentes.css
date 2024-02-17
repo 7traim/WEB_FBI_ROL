@@ -2716,9 +2716,15 @@ footer{
 }
 
 @media screen and (max-width:375px){
+
+    .container-agentes-principal{
+        width: 90%;
+    }
+
     .container-agentes{
+        width: 100%;
         gap: 1rem;
-        padding-left: 2rem;
+        padding-left: 1.5rem;
     }
 
 }
