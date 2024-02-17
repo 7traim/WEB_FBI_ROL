@@ -2727,6 +2727,80 @@ footer{
         padding-left: 1.5rem;
     }
 
+    .denzel.overlay{
+        transform: translate(-2rem, -22rem);
+    }
+
+    .pearl.overlay{
+        transform: translate(-2rem, -22rem);
+    }
+
+    .betraim.overlay{
+        transform: translate(-2rem, -22rem);
+    }
+
+    .jazmin.overlay{
+        transform: translate(-2rem, -8rem);
+    }
+
+    .alana.overlay{
+        transform: translate(-2rem, -8rem);
+    }
+
+    .alisson.overlay{
+        transform: translate(-2rem, -8rem);
+    }
+
+    .daisaro.overlay{
+        transform: translate(-2rem, 8rem);
+    }
+
+    .demir.overlay{
+        transform: translate(-2rem, 8rem);
+    }
+
+    .valeria.overlay{
+        transform: translate(-2rem, 8rem);
+    }
+
+    .myeong.overlay{
+        transform: translate(-2rem, 27rem);
+    }
+
+    .dowon.overlay{
+        transform: translate(-2rem, 27rem);
+    }
+
+    .aylen.overlay{
+        transform: translate(-2rem, 27rem);
+    }
+
+    .nello.overlay{
+        transform: translate(-2rem, 27rem);
+    }
+
+    
+    .container__agente.active .container__overlay h3{
+        margin-left: -11.5rem;
+    }
+
+    .container__content p{
+        font-size: 1rem;
+        margin: 0;
+
+    }
+
+    .container__content h4{
+        font-size: 1rem;
+        margin: 0;
+
+    }
+
+    .container__agente.active .container__content{
+        margin-top: -12.5rem;
+        margin-left: -12.5rem;
+    }
+
 }
 
 
