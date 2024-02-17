@@ -234,7 +234,7 @@ aside{
 }
 
 .container__agente:hover{
-    border: 2px solid var(--boton-color);
+    border: 1.5px solid var(--boton-color);
 }
 
 .container__agente.overlay{
@@ -269,7 +269,7 @@ aside{
     box-shadow: 2px 2px 4px white;
     overflow: visible;
     background: var(--main-color);
-    border: 2px solid var(--boton-color);
+    border: 1.5px solid var(--boton-color);
 
 }
 
