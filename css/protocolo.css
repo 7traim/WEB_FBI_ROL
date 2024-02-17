@@ -2066,6 +2066,7 @@ footer{
     .dotacion__card--tittle{
         width: 11rem;
         margin-top: 1rem;
+        
     }
 
     .card__dotacion.active .dotacion__card--tittle h4{
@@ -2325,5 +2326,75 @@ footer{
         position: absolute;
         z-index: 5;
     }   
+}
+
+
+
+@media  screen and (max-width:375px){
+
+
+    .nav-menu{
+        width: 56%;
+    } 
+
+    .unidad a i{
+        font-size: 1.5rem;
+    }
+
+    .reglamento{
+        font-size: 1rem;
+        width: 14rem;
+        margin-left: 1rem;
+        border-bottom: 1px solid var(--text-color-primary);
+    }
+
+    .container {
+      width: 90%;
+      margin-left: 1rem;  
+    } 
+
+    .container__card--regla{
+        padding-left:97rem;
+    }
+
+    .card__casos .caso__card{
+        width: 28rem;
+        height: 11rem;
+        margin-left: -1rem;
+    }
+
+    .dotacion__card{
+        justify-content: center;
+        margin-left: -1rem;
+    }
+
+    .card__dotacion{
+        width: 9rem;
+        height: 10rem;
+    }
+
+    .dotacion__card--tittle{
+        width:7rem;
+        height: 10rem;
+        margin-top: 1rem;
+    }
+
+    .dotacion__card--tittle h4{
+        font-size: 0.9rem;
+        width: 8rem;
+    }
+
+
+    .card__dotacion.active{
+        width: 30rem;
+        border-radius: 1rem;
+        transform: translate(0rem, -3rem);
+        position: absolute;
+        z-index: 5;
+    }   
+
+    .img__box:hover .dotacion__card--tittle{
+        display: none;
+    }
 }
 
