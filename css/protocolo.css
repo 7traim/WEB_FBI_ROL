@@ -225,7 +225,7 @@ aside{
         margin-bottom: 2rem;
         margin-left: 9rem;
         width: 26rem;
-        border-bottom: 3px ridge var(--text-color-primary);
+        border-bottom: 2px solid var(--text-color-primary);
         letter-spacing: 1px;
         
 
@@ -350,7 +350,7 @@ aside{
     color: var(--text-color-primary);
     margin-left: 9rem;
     width: 25rem;
-    border-bottom: 3px ridge var(--text-color-primary);
+    border-bottom: 2px solid var(--text-color-primary);
     
 }
 
@@ -519,7 +519,7 @@ aside{
     font-size: 2rem;
     margin-left: 9rem;
     width: 32rem;
-    border-bottom: 3px ridge var(--text-color-primary);
+    border-bottom: 2px solid var(--text-color-primary);
 }
 
 .container__casos .casos__text{
@@ -575,7 +575,7 @@ aside{
     color: var(--text-color-primary);
     margin-left: 9rem;
     width: 28rem;
-    border-bottom: 3px ridge var(--text-color-primary);
+    border-bottom: 2px solid var(--text-color-primary);
 }
 
 .dotacion__card{
