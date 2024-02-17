@@ -2056,9 +2056,10 @@ footer{
     }
 
     .card__dotacion .img__box:hover img{
-        margin-top: 6.5rem;
+        margin-top: 6rem;
         margin-left: -3rem;
         width: 5.5rem;
+        height:5.5rem;
         border-radius: 1rem;
 
     }
@@ -2375,7 +2376,6 @@ footer{
 
     .dotacion__card--tittle{
         width:7rem;
-        height: 10rem;
         margin-top: 1rem;
     }
 
@@ -2393,7 +2393,7 @@ footer{
         z-index: 5;
     }   
 
-    .img__box:hover .dotacion__card--tittle{
+    .card__dotacion .img__box:hover .dotacion__card--tittle{
         display: none;
     }
 }
