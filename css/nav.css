@@ -3650,6 +3650,10 @@ h1{
         padding-top: 1rem;
 
     }
+
+    .logo__tittle img{
+        width: 5rem;
+    }
     
     .menu__container{
         width: 90%;
